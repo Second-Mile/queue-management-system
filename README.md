@@ -5,12 +5,12 @@ email: secondmile.queue@gmail.com
 password: v?2vMbaBbF9D
 After changing your password, if you forget it, contact Google (link to google password recovery)
 
-##Accessing the Queue
+## Accessing the Queue
 1. Go to the Google Drive
 2. If necessary, log in using the credentials above
 3. Open the file called "Second Mile Queue"
 
-##Signing a Neighbor In
+## Signing a Neighbor In
 1. When a neighbor walks-in, greet them and ask them if they've been here before.
 	Their answer will indicate which form they will need to fill out.
 2. Once the form is filled out, an email will be sent to the Second Mile Queue Gmail. 
@@ -35,6 +35,6 @@ After changing your password, if you forget it, contact Google (link to google p
 8. At the end of the day, copy any data you'd like to keep. Then click the "Clear Day" button in the 
 	Lobby tab.
 
-##Making Customizations to the System
+## Making Customizations to the System
 1. Log into github.com using the credentials above
 2. 
