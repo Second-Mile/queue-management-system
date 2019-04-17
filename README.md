@@ -36,15 +36,15 @@ This step only needs to be done once during setup. Once the email is set up, the
   2. Again, if you are logged into any other account besides the Second Mile Queue account, you will need to log out
   3. Log in using the credentials provided in the user manual. Since the Google Drive and Gmail accounts are linked, you must   use the new password to log in.
   4. Create a label called 'Apricot' once logged into the Gmail account
-    - On the left, scroll down, then click More
-    - Click Create new label
-    - Name your label
-    - Click Create
+     - On the left, scroll down, then click More
+     - Click Create new label
+     - Name your label
+     - Click Create
   5. Create a filter to automatically add the 'Apricot' label to incoming emails from Apricot
-    - Navigate back to the Inbox screen
-    - In the Search bar located at the top of the screen, click the arrow to the far right of the search bar
-    - In the <i><b>"From:"</b></i> field, enter <i>apricotsoftwarealerts@gmail.com</i>
-    - Click <i><b>Create Filter</b></i>
-    - Click the checkbox next to "Apply the label" and select 'Apricot'
-    - Click <i><b>Create Filter</b></i>
+     - Navigate back to the Inbox screen
+     - In the Search bar located at the top of the screen, click the arrow to the far right of the search bar
+     - In the <i><b>"From:"</b></i> field, enter <i>apricotsoftwarealerts@gmail.com</i>
+     - Click <i><b>Create Filter</b></i>
+     - Click the checkbox next to "Apply the label" and select 'Apricot'
+     - Click <i><b>Create Filter</b></i>
     
