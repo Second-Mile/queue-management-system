@@ -47,3 +47,4 @@ This step only needs to be done once during setup. Once the email is set up, the
     - Click <i><b>Create Filter</b></i>
     - Click the checkbox next to "Apply the label" and select 'Apricot'
     - Click <i><b>Create Filter</b></i>
+    
