@@ -15,7 +15,7 @@ This is a queue management system designed for the non-profit organization, Seco
     - If the browser you want to use is not listed, make sure that the browser is installed. Otherwise, we recommend using           Chrome
 #### Notes on the Display Portion:
 - The display portion of the system refreshes every 10 seconds. To change the refresh time, read the 
-[customization section](#####Changing the Refresh Time).
+[customization section](##### Changing the Refresh Time).
 - A connection to the internet is necessary in order for the display to connect to the spreadsheet.
 - It is imperative that none of the files in the smmc-queue folder move. Moving files out of the smmc-queue folder can result in a broken system.
 
