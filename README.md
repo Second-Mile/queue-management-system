@@ -46,5 +46,13 @@ This step only needs to be done once during setup. Once the email is set up, the
      - In the <i><b>"From:"</b></i> field, enter <i>apricotsoftwarealerts@gmail.com</i>
      - Click <i><b>Create Filter</b></i>
      - Click the checkbox next to "Apply the label" and select 'Apricot'
-     - Click <i><b>Create Filter</b></i>
+     - Click <i><b>Create Filter</b></i> again
+### Linking a Twilio account to the Google Spreadsheet Lobby
+In order to link a Twilio account, you will first need to create a Twilio account. For personal or business use, click [this link](twilio.com) to set up an account. For non-profit use, visit [this link](twilio.org) to learn more about setting up a non-profit Twilio account. 
+  1. In your Twilio dashboard, locate the AuthToken and the SID linked to your account
+  2. 
+
+## Customization
+### Customizing the Display
+### Customizing the Spreadsheet
     
