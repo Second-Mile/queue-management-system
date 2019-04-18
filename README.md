@@ -49,8 +49,30 @@ This step only needs to be done once during setup. Once the email is set up, the
      - Click <i><b>Create Filter</b></i> again
 ### Linking a Twilio account to the Google Spreadsheet Lobby
 In order to link a Twilio account, you will first need to create a Twilio account. For personal or business use, click [this link](twilio.com) to set up an account. For non-profit use, visit [this link](twilio.org) to learn more about setting up a non-profit Twilio account. 
-  1. In your Twilio dashboard, locate the AuthToken and the SID linked to your account
-  2. 
+
+1. To set up the Send SMS function, first log into your Twilio account
+2. In your Twilio dashboard, you will find two key items. Make sure you either copy these to another document or a piece of paper. Do not share this information with anyone other than your team.
+	- The Auth. Token
+	- The SID
+	- The Phone Number Provided by Twilio
+3. In the Google Spreadsheet file, click Tools
+4. Click Script editor
+5. Click sendSMS
+6. In the “messages_url” line (line 2), put the SID in the URL after the “Accounts/” part
+7. In line 16, paste or enter the SID on the left side of the colon and the Auth. Token on the right side of the colon
+8. In line 7, where it says “From:”, paste or enter the number Twilio provided making sure that the format remains the same 	-(Ex. +12815554545)
+9. At the top of the page, click Run. 
+10. Hover over Run function
+11. Click sendMessage
+12. The program will then ask you to authorize the code
+13. Click Review Permissions
+14. Select the Second Mile Queue account
+15. If the program says that the app is not verified, click the link at the bottom right-hand corner of the dialog box that says “Advanced”
+16. Click the link that says “Go to sendSMS (unsafe)”
+17. Click Allow
+
+If you need help locating any of the code mentioned in steps above, visit https://www.twilio.com/blog/2016/02/send-sms-from-a-google-spreadsheet.html
+
 
 ## Customization
 ### Customizing the Display
